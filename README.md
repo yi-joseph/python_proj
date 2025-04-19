@@ -1,3 +1,4 @@
+
 # python_proj
 
 Entwickel ein Python-Programm, dass auf Window-Server-2022 läuft und folgendes tut:
